@@ -133,7 +133,7 @@ li {
 
 .main {
     width: 100%;
-    margin: 0;
+    margin-right: 2rem;
     padding: 4rem 3rem;
     background-color:white;
     display: flex;

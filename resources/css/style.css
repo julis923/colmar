@@ -129,6 +129,7 @@ li {
     border: 0px solid transparent;
     text-shadow: 0px 0px 0px transparent;
     padding: 2rem 0px;
+    outline: none;
 }
 
 .main {
@@ -196,6 +197,7 @@ li {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+    margin-bottom: 4rem;
 }
 
 .start-header {
@@ -223,4 +225,72 @@ li {
 
 .course-text h3 {
     width: 90%;
+}
+
+.thesis {
+    background-color: white;
+    border-bottom: 1px solid lightgray;
+}
+
+.thesis h1 {
+    text-align: center;
+    padding: 4rem;
+}
+
+.thesis-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.thesis video {
+    width: 60%;
+    margin-left: 3rem;
+
+}
+
+.thesis-menu {
+    width: 40%;
+    margin-left: 3rem;
+}
+
+#grey {
+    background-color: lightgray;
+}
+
+#caption-head {
+    margin-left: 3rem;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    width: 60%;
+}
+
+#caption-body {
+    margin-left: 3rem;
+    width: 55%;
+    margin-bottom: 4rem;
+}
+
+video {
+    outline: none;
+}
+
+p {
+    font-size: 1.5rem;
+    color: gray;
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 2rem;
+    padding-left: 3rem;
+    padding-right: 2rem;
+    padding-bottom: 4rem;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#terms {
+    word-spacing: 1rem;
 }

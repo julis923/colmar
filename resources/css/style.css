@@ -1,11 +1,12 @@
 html {
     font-size: 8px;
-    width: 100%;
+    padding:0;
 }
 
 body {
     width: 100%;
     margin: 0 auto;
+    padding: 0;
 }
 
 h1 {
@@ -41,7 +42,6 @@ nav {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    width: 100%;
     height: 8rem;
     background-color: white;
     font-family: 'Roboto', sans-serif;
@@ -64,11 +64,11 @@ nav .logo {
 }
 
 .dark {
-    color: gray;
+    color: #454545;
 }
 
 .light {
-    color: lightgray;
+    color: gray;
     font-weight: lighter;
 }
 
@@ -88,11 +88,11 @@ li {
 }
 
 .banner {
-    width: 100%;
-    margin: 0;
-    padding: 4rem 3rem;
+    margin: 0 auto;
+    padding-top: 4rem;
+    padding-left: 3rem;
+    padding-bottom: 4rem;
     background-color:lightgray;
-    position: relative;
     display: flex;
     flex-direction: row;
 }
@@ -132,8 +132,6 @@ li {
 }
 
 .main {
-    width: 100%;
-    margin-right: 2rem;
     padding: 4rem 3rem;
     background-color:white;
     display: flex;
@@ -166,6 +164,7 @@ li {
     flex-direction: row;
     align-items: center;
     border: 0.5px solid lightgray;
+    padding-right: 2rem;
 }
 
 .main-list {
@@ -179,10 +178,49 @@ li {
 
 .guest {
    background-color: lightgrey;
-   padding: 2rem;
 }
 
 .link {
     color: lightskyblue;
     font-weight: normal;
+}
+
+.start {
+    background-color:lightgray;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.courses {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.start-header {
+    text-align: center;
+    padding: 4rem;
+}
+
+.course-box {
+    background-color: white;
+    width: 45rem;
+    margin: 2rem 2rem 2rem 2rem;
+}
+
+.course-box img {
+    width: 100%;
+    height: auto;
+    margin: 0;
+}
+
+.course-text {
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+    padding-left: 2rem;
+}
+
+.course-text h3 {
+    width: 90%;
 }

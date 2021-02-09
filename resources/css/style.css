@@ -527,7 +527,7 @@ footer {
         .software {
             color: white;
             font-size: 3rem;
-            background-image: url("/Users/juliswanson/colmar/resources/media/images/course-software.jpg");
+            background-image: url("resources/media/images/course-software.jpg");
             background-color: gray;
             background-position: center;
             background-repeat: no-repeat;
@@ -539,7 +539,7 @@ footer {
         .computer {
             color:white;
             font-size: 3rem;
-            background-image: url("/Users/juliswanson/colmar/resources/media/images/course-computer-art.jpg");
+            background-image: url("resources/media/images/course-computer-art.jpg");
             background-color: gray;
             background-position: center;
             background-repeat: no-repeat;
@@ -551,7 +551,7 @@ footer {
         .design {
             color:white;
             font-size: 3rem;
-            background-image: url("/Users/juliswanson/colmar/resources/media/images/course-design.jpg");
+            background-image: url("resources/media/images/course-design.jpg");
             background-color: gray;
             background-position: center;
             background-repeat: no-repeat;
@@ -563,7 +563,7 @@ footer {
         .data {
             color:white;
             font-size: 3rem;
-            background-image: url("/Users/juliswanson/colmar/resources/media/images/course-data.jpg");
+            background-image: url("resources/media/images/course-data.jpg");
             background-color: gray;
             background-position: center;
             background-repeat: no-repeat;
@@ -575,7 +575,7 @@ footer {
         .business {
             color:white;
             font-size: 3rem;
-            background-image: url("/Users/juliswanson/colmar/resources/media/images/course-business.jpg");
+            background-image: url("resources/media/images/course-business.jpg");
             background-color: gray;
             background-position: center;
             background-repeat: no-repeat;
@@ -587,7 +587,7 @@ footer {
         .marketing {
             color:white;
             font-size: 3rem;
-            background-image: url("/Users/juliswanson/colmar/resources/media/images/course-marketing.jpg");
+            background-image: url("resources/media/images/course-marketing.jpg");
             background-color: gray;
             background-position: center;
             background-repeat: no-repeat;

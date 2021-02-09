@@ -106,17 +106,19 @@ li {
 .banner-text {
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: center;
     width: 30%;
 }
 
 .banner-text h1 {
     margin: 0;
+    padding-bottom: 4rem;
 }
 
 .banner-text h2 {
     color: white;
     margin: 0;
+    padding-bottom: 4rem;
 }
 
 .banner-text button {

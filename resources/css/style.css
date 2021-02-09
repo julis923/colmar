@@ -407,11 +407,17 @@ footer {
             display: flex;
             flex-direction: row;
             justify-content: space-between;
+            margin: 1rem;
         }
 
+        .image-logo-reduced {
+            height: 6rem;
+            padding: .5rem;
+        }
+        
         #img-icon {
             height: 5rem; 
-            margin-right: 3rem;
+            padding: .5rem;
         }
 
         .mobile {

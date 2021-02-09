@@ -522,78 +522,73 @@ footer {
             color: white;
             font-size: 4rem;
             background-image: url("/Users/juliswanson/colmar/resources/media/images/course-software.jpg");
+            background-color: gray;
             background-position: center;
             background-repeat: no-repeat;
-            width: 100%;
-            padding-top: 6rem;
-            padding-bottom: 6rem;
-            margin-top: 1rem;
-            margin-bottom: 1rem;
+            padding: 6rem 10rem;
+            margin: 1rem 6rem;
+            width: 60%;
         }
 
         .computer {
             color:white;
             font-size: 4rem;
             background-image: url("/Users/juliswanson/colmar/resources/media/images/course-computer-art.jpg");
+            background-color: gray;
             background-position: center;
             background-repeat: no-repeat;
-            width: 100%;
-            padding-top: 6rem;
-            padding-bottom: 6rem;
-            margin-top: 1rem;
-            margin-bottom: 2rem;
+            padding: 6rem 10rem;
+            margin: 1rem 6rem;
+            width: 60%;
         }
 
         .design {
             color:white;
             font-size: 4rem;
             background-image: url("/Users/juliswanson/colmar/resources/media/images/course-design.jpg");
+            background-color: gray;
             background-position: center;
             background-repeat: no-repeat;
-            width: 100%;
-            padding-top: 6rem;
-            padding-bottom: 6rem;
-            margin: 0px;
+            padding: 6rem 10rem;
+            margin: 1rem 6rem;
+            width: 60%;
         }
 
         .data {
             color:white;
             font-size: 4rem;
             background-image: url("/Users/juliswanson/colmar/resources/media/images/course-data.jpg");
+            background-color: gray;
             background-position: center;
             background-repeat: no-repeat;
-            width: 100%;
-            padding-top: 6rem;
-            padding-bottom: 6rem;
-            margin: 0px;
-            margin-top: 2rem;
+            padding: 6rem 10rem;
+            margin: 1rem 6rem;
+            width: 60%;
         }
 
         .business {
             color:white;
             font-size: 4rem;
             background-image: url("/Users/juliswanson/colmar/resources/media/images/course-business.jpg");
+            background-color: gray;
             background-position: center;
             background-repeat: no-repeat;
-            width: 100%;
-            padding-top: 6rem;
-            padding-bottom: 6rem;
-            margin: 0px;
-            margin-top: 2rem;
+            padding: 6rem 10rem;
+            margin: 1rem 6rem;
+            width: 60%;
         }
 
         .marketing {
             color:white;
             font-size: 4rem;
             background-image: url("/Users/juliswanson/colmar/resources/media/images/course-marketing.jpg");
+            background-color: gray;
             background-position: center;
             background-repeat: no-repeat;
-            width: 100%;
-            padding-top: 6rem;
-            padding-bottom: 6rem;
-            margin: 0px;
-            margin-top: 2rem;
+            padding: 6rem 10rem;
+            margin: 1rem 6rem;
             margin-bottom: 3rem;
+            width: 60%;
         }
 
         .thesis-mobile {

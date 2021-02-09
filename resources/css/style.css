@@ -406,6 +406,10 @@ footer {
         display: none;
     }
 
+    .hide {
+        display: none;
+    }
+
 @media only screen and (max-width: 750px) {
 
         .banner, .main, .main-list, .main-info, .main-item, .main-text, .start, .nav-mobile, .nav-desktop, .thesis, .footer {
@@ -471,13 +475,11 @@ footer {
             margin: 2rem 25% 4rem 25%;
         }
 
-        .mobile {
-            display: flex;
-        }   
 
         .mobile-main {
             background-color: white;
             margin: 0 auto;
+            text-align: center;
         }
 
         .mobile-main-item img {
@@ -487,6 +489,7 @@ footer {
 
         .mobile-main-text {
             margin: 3rem;
+            text-align: left;
         }
 
         .mobile-main-text h2 {
